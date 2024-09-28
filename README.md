@@ -1,17 +1,20 @@
 <a id="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/RDMaven/anime-collection">
-    <img src="images/logo1.jpg" alt="Logo" width="170" height="170">
+    <img src="images/logo1.jpg" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Anime Collection</h3>
-
+<div align="center">
+  <img src="https://img.shields.io/github/contributors/RDMaven/anime-collection.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/RDMaven/anime-collection.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/RDMaven/anime-collection.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/RDMaven/anime-collection.svg?style=for-the-badge" />
+</div>
   <p align="center">
     Open web project for anime collections and quizzes.
     <br />
@@ -90,15 +93,6 @@ Project Link: [https://github.com/RDMaven/anime-collection](https://github.com/R
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/RDMaven/anime-collection.svg?style=for-the-badge
-[contributors-url]: https://github.com/RDMaven/anime-collection/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/RDMaven/anime-collection.svg?style=for-the-badge
-[forks-url]: https://github.com/RDMaven/anime-collection/network/members
-[stars-shield]: https://img.shields.io/github/stars/RDMaven/anime-collection.svg?style=for-the-badge
-[stars-url]: https://github.com/RDMaven/anime-collection/stargazers
-[issues-shield]: https://img.shields.io/github/issues/RDMaven/anime-collection.svg?style=for-the-badge
-[issues-url]: https://github.com/RDMaven/anime-collection/issues
 [license-shield]: https://img.shields.io/github/license/RDMaven/anime-collection.svg?style=for-the-badge
 [license-url]: https://github.com/RDMaven/anime-collection/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
